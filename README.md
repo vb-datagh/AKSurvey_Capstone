@@ -1,4 +1,4 @@
-# Amado Khaya Survey for General Assembly Capstone
+# Survey Exploration and Analysis: 2025 Filipinx Survey
 Use of Jupyter Notebook, 
 Utilization of Libraries: Pandas, MadPlotLib, Plotly for Data Visualizations
 Exploration and analysis of 2025 Filipinx Survey conducted by Amado Khaya Institute

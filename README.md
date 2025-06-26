@@ -5,4 +5,4 @@ Exploration and analysis of 2025 Filipinx Survey conducted by Amado Khaya Instit
 
 # Executive Summary
 
-The importance of proper data cleaning, munging, wrangling, manipulation cannot be overstated. The preponderance of data columns, or features, the amount of errors or null values, required careful selection and aggregation in order to form analysis of survey responses. 
+The importance of proper data cleaning and preparation was essential. Hours worth of cleaning data columns, errors or null values, and standardizing terms and keys, required careful selection and aggregation in order to form analysis of survey responses. 

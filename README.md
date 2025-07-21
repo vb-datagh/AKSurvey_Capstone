@@ -1,7 +1,7 @@
 # Exploration and Analysis: 2025 Filipinx Survey
 For my final capstone project in the General Assembly Data Analytics Immersion, I used Microsoft Excel for data cleaning, editing and formatting in conjunction with Jupyter Notebook for further exploration and data analysis.
 Within this notebook, I utilized several libraries: Pandas, MadPlotLib, Plotly for Data Visualizations
-Exploration and analysis of 2025 Filipinx Survey conducted by Amado Khaya Institute
+Exploration and analysis of 2025 Filipinx Survey conducted by Amado Khaya Initiative.
 
 # Executive Summary
 

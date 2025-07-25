@@ -7,6 +7,6 @@ Within this notebook, I utilized several libraries: Pandas, MadPlotLib, Plotly f
 The importance of proper data cleaning and preparation was essential. Hours worth of cleaning data columns, errors or null values, and standardizing terms and keys, required careful selection and aggregation in order to form analysis of survey responses. 
 
 # Contents
-1) Python Notebook (
+1) Jupyter Notebook (IPYNB)
 2) Report and Technical Analysis (PDF)
 3) Survey Presentation (PDF)

@@ -5,3 +5,7 @@ Within this notebook, I utilized several libraries: Pandas, MadPlotLib, Plotly f
 # Executive Summary
 
 The importance of proper data cleaning and preparation was essential. Hours worth of cleaning data columns, errors or null values, and standardizing terms and keys, required careful selection and aggregation in order to form analysis of survey responses. 
+
+# Conents 
+1) Python Notebook
+2) Report and Technical Analysis

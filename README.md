@@ -4,7 +4,7 @@ Within this notebook, I utilized several libraries: Pandas, MadPlotLib, Plotly f
 
 # Executive Summary
 
-The importance of proper data cleaning and preparation was essential. Hours worth of cleaning data columns, errors or null values, and standardizing terms and keys, required careful selection and aggregation in order to form analysis of survey responses. 
+The importance of proper data cleaning and preparation was essential. Hours worth of cleaning data columns, errors or null values, and standardizing terms and keys, required careful selection and aggregation in order to form analysis of survey responses. <i> Update: as of 10/20/26 updated Excel, Jupyter Notebook and uploaded "Final_Survey_Capstone" with cleared output (ZIP Code, City) that could be identifiers and upholds data ethics work.</i>
 
 # Contents
 1) Jupyter Notebook "Final_Survey_Capstone" (IPYNB)
